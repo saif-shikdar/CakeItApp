@@ -33,10 +33,6 @@ Networking layer
 
 This contains Generic Network layer which supports GET and POST request. Returns completion block with data or error.
 
-Repository Layer
-
-This is abstraction b/w viewmodel and networking layer. This will get data from network layer and decode as per need to single object or arary or objects This is Mocked in testing layer to stub local json data.
-
 Coordinator
 
 Using only one Main coordinator in project
