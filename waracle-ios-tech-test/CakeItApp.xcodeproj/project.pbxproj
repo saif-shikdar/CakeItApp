@@ -133,13 +133,6 @@
 			path = Service;
 			sourceTree = "<group>";
 		};
-		04AEB5E926E8AF1500CA18E5 /* Repository */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = Repository;
-			sourceTree = "<group>";
-		};
 		04AEB5EA26E8AF3800CA18E5 /* Coordinator */ = {
 			isa = PBXGroup;
 			children = (
@@ -213,7 +206,6 @@
 				04AEB5EE26E8AF6800CA18E5 /* Utility */,
 				04AEB5EB26E8AF4300CA18E5 /* Modules */,
 				04AEB5EA26E8AF3800CA18E5 /* Coordinator */,
-				04AEB5E926E8AF1500CA18E5 /* Repository */,
 				04AEB5E826E8AF0900CA18E5 /* Service */,
 				CEF6389A25B73FA7009F967A /* AppDelegate.swift */,
 				CEF6389C25B73FA7009F967A /* SceneDelegate.swift */,
